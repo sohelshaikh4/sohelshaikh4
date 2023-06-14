@@ -18,8 +18,7 @@
 </div>
 
 ###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=E64980&vCenter=true&width=1000&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+()%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Shivam+Saini!;A+passionate%2C+self-taught+Front+End+developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=32F74A&width=435&lines=Hey%2C+I+'m+SOHEL+SHAIKH;Aspiring+Software++Developer%7C+Enthusiastic+%7C+Self-Learner+%7C)](https://git.io/typing-svg)
 
 
 
