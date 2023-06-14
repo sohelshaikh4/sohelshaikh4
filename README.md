@@ -19,7 +19,8 @@
 
 ###
 
-<h1 align="center">Myself, Sohel</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=E64980&vCenter=true&width=1000&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Hey )%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Sohel+Shaikh!;A+passionate%2C+self-taught+Aspiring +Software+Developer+from+India)](https://git.io/typing-svg)
+
 
 ###
 
@@ -101,7 +102,7 @@
   
 </div>
 
-<h2 align="center">🤝 Support</h2>
+<h2 align="center">🤝 Support, Learn Together</h2>
 
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are the most welcome!</p>
 
@@ -109,7 +110,7 @@
 
 <p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay WorkoHolic!</i>⚡️</h1>
 
 ###
 
