@@ -90,7 +90,7 @@
   
 </div>
 
-<h2 align="center">🤝 Support, Learn Together</h2>
+<h2 align="center">🤝 Support, Learn👨‍🎓 ,Grow Together📈</h2>
 
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are the most welcome!</p>
 
