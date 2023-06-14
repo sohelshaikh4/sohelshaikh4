@@ -72,10 +72,11 @@
 </div>
 
 ###
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ssohelsshaikh4) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelshaikh4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seenu_sohel) 
+![Visitors count](https://visitor-badge.glitch.me/badge?page_id=sohelshaikh4.sohelshaikh4&style=flat&right_color=red)
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
 
@@ -93,14 +94,23 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sohelshaikh4/sohelshaikh4/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohelshaikh4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohelshaikh4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## ✍️ Random Dev Quote:
+<div class="quote" align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+  
 </div>
 
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are the most welcome!</p>
+
+<p align="center">💙 If you like my projects, give them a ⭐ and share it with friends!</p>
+
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
 ###
+
+
